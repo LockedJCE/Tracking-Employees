@@ -8,6 +8,9 @@
 Working with databases can at often times lack visuals to assist the process and I realized that by creating an interface I can drastically save time and maximize my effiency to make all the changes needed.
 This application is able to manage a company's employee database, using Node.js, PostgreSQL, and Inquirer.
 
+[Tracking-Employees-Demo!.webm](https://github.com/LockedJCE/Tracking-Employees/assets/163614828/f4bd7742-76fd-4c33-ad7d-fce00722953d)
+
+
 ## Table of Contents
   * [Acceptance-Criteria](#acceptance-criteria)
   * [Installation](#installation)
