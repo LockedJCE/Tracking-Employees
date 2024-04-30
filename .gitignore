@@ -2,3 +2,4 @@ node_modules
 12-sql-homework-video-thumbnail.png
 100-sql-challenge-ERD.png
 package-lock.json
+.env
